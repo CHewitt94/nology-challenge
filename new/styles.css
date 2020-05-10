@@ -1,0 +1,25 @@
+body {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    background-color: black;
+}
+
+h1 {
+    position: fixed;
+    left: 38%;
+    top: 30%;
+    padding: 50px 56px;
+    color: rgb(151,151,255);
+}
+
+button {
+    background-color: black;
+    font-size: 24px;
+    color: white;
+    position: relative;
+    top: 50%;
+    left: 47%;
+    border: 5px solid white;
+}

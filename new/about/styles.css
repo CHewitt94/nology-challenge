@@ -1,0 +1,44 @@
+body {
+    background-image: url("../images/DSC_3745.JPG");
+    background-position: 100px 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+    min-width: 1024px;
+    width: 100%;
+    height: auto;
+}
+
+#pic {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    /* z-index: 0; this is default so not necessary */
+    opacity: 50%;
+}
+
+.topnav {
+    text-decoration: none;
+    color: white;
+}
+
+h2 {
+    position: fixed; 
+    left:55%;
+    top:15%;
+    padding:50px 56px;
+    color: Black);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:250%;
+}
+
+p {
+    position: fixed;
+    left:30%;
+    top: 50%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 170%;
+    color: black;
+    text-align: center;
+}
